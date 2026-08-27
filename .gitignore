@@ -1,6 +1,7 @@
 # Secrets
 .env
 
+
 # Python
 __pycache__/
 *.py[cod]
@@ -12,5 +13,5 @@ env/
 # Gradio
 .gradio/
 
-# macOS
-.DS_Store
+# Readme
+README.txt
